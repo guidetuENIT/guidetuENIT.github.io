@@ -9,22 +9,34 @@ theme: jekyll-theme-cayman
 
 #### Egalité des chances
 NOM : HASSOUNE-RHABBOUR
+
 Prénom : Bouchra
+
 Tél : 05 62 44 27 00
+
 e-mail : egalite@enit.fr
+
 
 #### Assistant de service social 
 Permanence (sur rdv) sur le campus de Tarbes tous les mardis des semaines paires.
+
 NOM : N'GUYEN
+
 Prénom : Hai Long
+
 Tél : 05 61 12 54 52
+
 e-mail : assist.social@crous-toulouse.fr
 
 #### Infirmière SIMPPS (Service Interuniversitaire de Médecine Préventive et de Promotion de la Santé)
 Permanence à l'ENIT (bâtiment B) - Le mardi, mercredi, jeudi de 09h à 12h puis de 13h à 17h.
+
 NOM: POIRIER
+
 Prénom: Valérie
+
 Tél: 05 62 44 57 40
+
 e-mail: medecine@enit.fr
 
 
@@ -76,8 +88,8 @@ Association : Le Bureau Des Élèves (BDE), club international, maison des étud
 
 Diverses journées sont organisées pour que les élèves préparent et concrétisent leur projet d’avenir.
 Journée portes ouvertes (JPO), Forum des entreprises, Job dating, Shift, Filles industrie, Forum de la Mobilité Internationale, EPS Day, Erasmus Day, 4L trophy, Gala
-Salons – forums : <a href="https://www.enit.fr/fr/affaires-industrielles/evenements/forum-carriere.html">Ici
+Salons – forums : https://www.enit.fr/fr/affaires-industrielles/evenements/forum-carriere.html
 Plus d'informations disponibles sur l'extranet.
-http://www.enit.fr/fr/accueil/evenements-2.html
-http://www.enit.fr/fr/affaires-industrielles/evenements.html">http://www.enit.fr/fr/affaires-industrielles/evenements.html
+- http://www.enit.fr/fr/accueil/evenements-2.html
+- http://www.enit.fr/fr/affaires-industrielles/evenements.html
 
