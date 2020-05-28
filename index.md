@@ -25,8 +25,8 @@ e-mail : assist.social@crous-toulouse.fr
 Permanence à l'ENIT (bâtiment B) - Le mardi, mercredi, jeudi de 09h à 12h puis de 13h à 17h.  
 NOM: POIRIER  
 Prénom: Valérie  
-Tél: [05 62 44 57 40](tel:+33562445740) 
-e-mail: medecine@enit.fr  
+Tél: [05 62 44 57 40](tel:+33562445740)
+e-mail: [medecine@enit.fr](mailto:contact@example.com)
 
 
 ## 3.2. Résidence universitaire - C.R.O.U.S.
