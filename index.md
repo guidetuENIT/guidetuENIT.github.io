@@ -1,7 +1,6 @@
 ---
 title: Guide de l'étudiant ENIT
-layout: home
-theme: jekyll-theme-cayman
+layout: default
 ---
 # 3. Vie étudiante
 
