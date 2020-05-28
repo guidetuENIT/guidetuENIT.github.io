@@ -7,13 +7,10 @@ layout: default
 ## 3.1. Services médico-sociaux
 
 #### Egalité des chances
-NOM : HASSOUNE-RHABBOUR
-
-Prénom : Bouchra
-
-Tél : 05 62 44 27 00
-
-e-mail : egalite@enit.fr
+NOM : HASSOUNE-RHABBOUR  
+Prénom : Bouchra  
+Tél : 05 62 44 27 00  
+e-mail : egalite@enit.fr  
 
 
 #### Assistant de service social 
