@@ -54,7 +54,7 @@ Gérés par le C.R.O.U.S., ils se situent sur le pôle universitaire.
 Tél : 05 62 44 65 65
 Cafétéria : ouverte du lundi au vendredi de 11h30 à 13h30 - paiement par carte IZLY.
 Restaurant : ouvert du lundi au vendredi de 11h30 à 13h30 - paiement par carte IZLY. Tarif étudiant : 3,3 €
-http://www.crous-toulouse.fr/restauration/manger-au-crous/
+[http://www.crous-toulouse.fr/restauration/manger-au-crous/](http://www.crous-toulouse.fr/restauration/manger-au-crous/)
 
 
 ## 3.4. Bibliothèque
@@ -87,8 +87,8 @@ Association : Le Bureau Des Élèves (BDE), club international, maison des étud
 
 Diverses journées sont organisées pour que les élèves préparent et concrétisent leur projet d’avenir.
 Journée portes ouvertes (JPO), Forum des entreprises, Job dating, Shift, Filles industrie, Forum de la Mobilité Internationale, EPS Day, Erasmus Day, 4L trophy, Gala
-Salons – forums : https://www.enit.fr/fr/affaires-industrielles/evenements/forum-carriere.html
+Salons – forums : [https://www.enit.fr/fr/affaires-industrielles/evenements/forum-carriere.html](https://www.enit.fr/fr/affaires-industrielles/evenements/forum-carriere.html)
 Plus d'informations disponibles sur l'extranet.
-- http://www.enit.fr/fr/accueil/evenements-2.html
-- http://www.enit.fr/fr/affaires-industrielles/evenements.html
+- [http://www.enit.fr/fr/accueil/evenements-2.html](http://www.enit.fr/fr/accueil/evenements-2.html)
+- [http://www.enit.fr/fr/affaires-industrielles/evenements.html](http://www.enit.fr/fr/affaires-industrielles/evenements.html)
 
