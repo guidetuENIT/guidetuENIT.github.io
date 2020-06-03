@@ -1,6 +1,6 @@
 ---
 title: Guide de l'étudiant ENIT
-layout: default
+layout: menu.html
 ---
 {% include menu.html %}
 
