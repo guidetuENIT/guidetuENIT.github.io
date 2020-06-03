@@ -3,7 +3,7 @@ title: Guide de l'étudiant ENIT
 layout: default
 ---
 
-{{menu}}
+{{content}}
 
 # 3. Vie étudiante
 
