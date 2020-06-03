@@ -1,4 +1,6 @@
+---
+layout: menu
+title: Guide de l'étudiant ENIT
+---
 
-####test menu
-
-[lien 1](index.html)
+ceci est un test
