@@ -1,0 +1,23 @@
+docs_list_title: Guide de l'étudiant ENIT
+docs:
+
+- title: Présentation
+  url: presentation.html
+
+- title: Formation
+  url: formation.html
+
+- title: Vie étudiante
+  url: vieetu.html
+  
+- title: Mobilité
+  url: mobilite.html
+  
+- title: Services numériques
+  url: servicesnum.html
+  
+- title: RGPD : Recommandations
+  url: rgpd.html
+  
+- title: Contacts
+  url: contacts.html
