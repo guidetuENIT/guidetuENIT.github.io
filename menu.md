@@ -1,5 +1,5 @@
 ---
-layout: menu
+layout: index
 title: Guide de l'étudiant ENIT
 ---
 
