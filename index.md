@@ -1,5 +1,5 @@
 ---
-title: Guide de l'étudiant ENIT
+title: Guide de l'étudiant ENITs
 layout: default
 ---
 
