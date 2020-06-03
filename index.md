@@ -4,4 +4,4 @@ layout: default
 ---
 {% include menu.html %}
 
-Test du guide de l'étudiant.
+## Test du guide de l'étudiant.
