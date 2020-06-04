@@ -5,4 +5,4 @@ layout: default
 {% include menu.html %}
 
 ## Ceci est un test du guide de l'étudiant.
-test
+testtest
