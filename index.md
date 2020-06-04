@@ -4,5 +4,4 @@ layout: default
 ---
 {% include menu.html %}
 
-## Ceci est un test du guide de l'étudiant.
-testtest
+## Bienvenue sur le guide de l'étudiant ENIT !
