@@ -1,7 +1,6 @@
 ---
 title: Guide de l'étudiant ENIT
 layout: default
+nav_order: 6
 ---
-{% include menu.html %}
-
 test rgpd
