@@ -1,5 +1,5 @@
 ---
-title: Guide de l'étudiant ENIT
+title: Services numériques
 layout: default
 nav_order: 5
 ---
