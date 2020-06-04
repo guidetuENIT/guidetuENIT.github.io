@@ -1,7 +1,7 @@
 ---
-title: Guide de l'étudiant ENIT
+title: Contacts
 layout: default
+nav_order: 7
 ---
-{% include menu.html %}
 
 test contacts
