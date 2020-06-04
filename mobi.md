@@ -1,5 +1,5 @@
 ---
-title: Guide de l'étudiant ENIT
+title: Mobilité
 layout: default
 nav_order: 4
 ---
