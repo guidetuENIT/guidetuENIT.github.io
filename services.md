@@ -1,7 +1,7 @@
 ---
 title: Guide de l'étudiant ENIT
 layout: default
+nav_order: 5
 ---
-{% include menu.html %}
 
 test services
