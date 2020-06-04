@@ -1,5 +1,5 @@
 ---
-title: Guide de l'étudiant ENIT
+title: RGPD : Recommandations
 layout: default
 nav_order: 6
 ---
