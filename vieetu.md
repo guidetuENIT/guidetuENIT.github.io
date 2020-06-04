@@ -1,8 +1,8 @@
 ---
 title: Guide de l'étudiant ENIT
 layout: default
+nav_order: 3
 ---
-{% include menu.html %}
 # 3. Vie étudiante
 
 ## 3.1. Services médico-sociaux
