@@ -1,4 +1,3 @@
 layout: default
 title: Guide de l'étudiant ENIT
-
-theme: jekyll-theme-cayman
+remote_theme: pmarsceill/just-the-docs
