@@ -1,5 +1,5 @@
 ---
-title: Guide de l'étudiant ENIT
+title: Présentation de l'ENIT
 layout: default
 nav_order: 1
 ---
