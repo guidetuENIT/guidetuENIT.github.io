@@ -1,5 +1,5 @@
 ---
-title: Guide de l'étudiant ENIT
+title: Vie étudiante
 layout: default
 nav_order: 3
 ---
