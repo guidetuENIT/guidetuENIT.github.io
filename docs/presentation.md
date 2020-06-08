@@ -6,4 +6,4 @@ nav_order: 1
 
 test presentation
 
-![test](images/enit.PNG)
+![test](images/enit.png)
