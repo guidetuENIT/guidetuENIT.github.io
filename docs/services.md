@@ -6,8 +6,7 @@ nav_order: 5
 
 # Services numériques
 L’ENIT propose divers services numériques, accessibles depuis le menu outils dans l’extranet (après vous être authentifié). L’authentification se fait par votre identifiant LDAP bâti de la manière suivante : initiale du prénom suivi du nom sur 8 caractères maximum. Cet identifiant est appelé pnom dans la suite du document. Cet identifiant et le mot de passe associé sont indiqués sur le certificat de scolarité remis lors de votre inscription.  
-![servicesnum](images/servicesnum.PNG)
-<img src="images/servicesnum.PNG" alt="drawing" width="200" height="150"/>
+<img src="images/servicesnum.PNG" width="300" height="300"/>
 
 ## Messagerie : Zimbra
 Chaque membre de la communauté de l'ENIT (personnel ou étudiant) possède une boîte à lettres (adresse e-mail). Cette boîte à lettres est accessible à l'adresse mail.enit.fr, après identification (LDAP).  
