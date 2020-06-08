@@ -6,7 +6,7 @@ nav_order: 5
 
 # Services numériques
 L’ENIT propose divers services numériques, accessibles depuis le menu outils dans l’extranet (après vous être authentifié). L’authentification se fait par votre identifiant LDAP bâti de la manière suivante : initiale du prénom suivi du nom sur 8 caractères maximum. Cet identifiant est appelé pnom dans la suite du document. Cet identifiant et le mot de passe associé sont indiqués sur le certificat de scolarité remis lors de votre inscription.  
-![servicesnum](images\enit.png)
+![servicesnum](images/servicesnum.PNG)
 
 ## Messagerie : Zimbra
 Chaque membre de la communauté de l'ENIT (personnel ou étudiant) possède une boîte à lettres (adresse e-mail). Cette boîte à lettres est accessible à l'adresse mail.enit.fr, après identification (LDAP).  
@@ -16,9 +16,9 @@ L'ENIT communiquera avec vous uniquement sur cette adresse, il est donc primordi
 Le compte mail principal associé à la boîte est de la forme : pnom@enit.fr, toutefois, afin de faciliter la communication, l'ENIT retient, pour chaque individu, une adresse au format : prenom.nom@enit.fr (sur le compte mail pnom). L'ENIT recommande l'utilisation de l'adresse prenom.nom@enit.fr dans les communications et les échanges.  
 Pour que cette adresse soit votre adresse par défaut, merci de configurer votre boîte :
 		- Dans l'interface web de votre compte mail (mailetu.enit.fr), aller dans Préférences  
-		![comptes](images\comptes.PNG)  
+		![comptes](images/comptes.PNG)  
 		- Dans Comptes, configurer les paramètres du compte principal de manière à ce que l'adresse prenom.nom@enit.fr soit utilisée par défaut.  
-		![parametres](images\parametres.PNG)  
+		![parametres](images/parametres.PNG)  
 
 ### Configurer un logiciel de messagerie
 #### Thunderbird
@@ -29,21 +29,21 @@ Pour que cette adresse soit votre adresse par défaut, merci de configurer votre
   - Votre nom et prénom : Prénom Nom
   - Adresse électronique : prenom.nom@enit.fr
   - Mot de passe : le mot de passe du compte LDAP  
-![thunderbird1](images\thunderbird1.PNG)  
+![thunderbird1](images/thunderbird1.PNG)  
 Cliquer sur continuer, le système recherche les informations vous concernant. Cela peut durer quelques secondes. Il vous propose des informations qui ressemblent à celles-ci.  
-![thunderbird2](images\thunderbird2.PNG)  
+![thunderbird2](images/thunderbird2.PNG)  
 - Choisir IMAP
 - Cliquer sur le bouton Configuration Manuelle et changer les informations :
   - Serveur entrant : mailetu.enit.fr, port 993
   - Serveur sortant : mail.enit.fr, port 465
   - Identifiant : pnom  
-![thunderbird3](images\thunderbird3.PNG)
+![thunderbird3](images/thunderbird3.PNG)
 
 #### Mail dans IOS
 - Ouvrir les réglages du téléphone
 - Aller dans Mot de passe et comptes
 - Choisir "Ajouter un compte"  
-![IOS1](images\IOS1.PNG)  
+![IOS1](images/IOS1.PNG)  
 - Choisir "Ajouter un compte Mail"
 - Remplir les informations demandées :
   - Nom : Prénom Nom
@@ -54,21 +54,21 @@ Cliquer sur continuer, le système recherche les informations vous concernant. C
   - Serveur : mailetu.enit.fr
   - Nom d'utilisateur : pnom
   - Mot de passe : mot de passe LDAP  
-![IOS2](images\IOS2.PNG)  
+![IOS2](images/IOS2.PNG)  
 
 #### Mail dans MacOS
 - Ouvrir préférences système
 - Aller dans Comptes internet
 - Choisir "Ajouter un compte  
-![MacOS1](images\MacOS1.PNG)  
+![MacOS1](images/MacOS1.PNG)  
 - Choisir compte Mail  
-![MacOS2](images\MacOS2.PNG)  
+![MacOS2](images/MacOS2.PNG)  
 - Remplir les informations demandées :
   - Nom : Prénom Nom
   - Adresse : prenom.nom@enit.fr
   - Mot de passe : le mot de passe du compte LDAP
 - Cliquer sur "Se connecter"  
-![MacOS3](images\MacOS3.PNG)  
+![MacOS3](images/MacOS3.PNG)  
 - Compléter avec les informations suivantes :
   - Nom d'utilisateur : pnom
   - Mot de passe : le mot de passe du compte LDAP
@@ -77,7 +77,7 @@ Cliquer sur continuer, le système recherche les informations vous concernant. C
   - Envoi : mail.enit.fr
 - Cliquer sur "Suivant"
 - Terminer  
-![MacOS4](images\MacOS4.PNG)  
+![MacOS4](images/MacOS4.PNG)  
 
 ## Emploi du temps : hyperplanning
 Hyperplanning est le logiciel d’emploi du temps de l’ENIT. A l’adresse planning.enit.fr, après identification, vous accédez à votre emploi du temps de cours personnel, mais aussi à un bilan de vos absences, à l’emploi du temps des salles de classe, etc. Cet emploi du temps est donné pour l’intégralité du semestre, vous devez vérifier que tous vos enseignements y apparaissent (contactez votre responsable pédagogique si ce n’est pas le cas).  
@@ -89,10 +89,10 @@ Hyperplanning permet d'exporter son emploi du temps vers un agenda électronique
 ### Récupérer le lien dans hyperplanning
 - Se connecter sur son espace hyperplanning.net (planning.enit.fr)
 - Cliquer sur Cours  
-![planning1](images\planning1.PNG)  
+![planning1](images/planning1.PNG)  
 - Cliquer sur le bouton calendrier
   - La fenêtre ci-dessous apparaît  
-		![planning2](images\planning2.PNG)  
+		![planning2](images/planning2.PNG)  
   - Sélectionner l'intégralité du lien (qui est très long)
   - Le copier (Ctrl+C ou Cmd+C)
 
@@ -107,7 +107,7 @@ Hyperplanning permet d'exporter son emploi du temps vers un agenda électronique
 - Coller l’adresse copiée depuis votre espace hyperplanning dans la seule ligne disponible
 - Choisir le nom et la couleur de votre calendrier
 - Valider  
-![agendazimbra](images\agendazimbra.PNG)  
+![agendazimbra](images/agendazimbra.PNG)  
 
 #### Google Agenda (pour téléphone Android)
 Dans un explorateur internet, aller à l'adresse [https://calendar.google.com/calendar/r](https://calendar.google.com/calendar/r) et se connecter avec son compte google (Gmail).
@@ -115,12 +115,12 @@ Dans un explorateur internet, aller à l'adresse [https://calendar.google.com/ca
 - Choisir "A partir de l'URL"
 - Dans la fenêtre apparue, coller l'adresse copiée depuis hyperplanning.net
 - Cliquer sur "Ajouter un agenda"  
-![googleagenda](images\googleagenda.PNG)  
+![googleagenda](images/googleagenda.PNG)  
 
 #### Calendrier (MacOS)
 - Ouvrir calendrier
 - Aller sur Fichier/abonnement à un calendrier  
-![calendriermac](images\calendriermac.PNG)  
+![calendriermac](images/calendriermac.PNG)  
   - Coller l'adresse copiée depuis votre espace hyperplanning dans la seule ligne disponible
   - Cliquer sur "S'abonner"
 
@@ -132,13 +132,13 @@ Dans un explorateur internet, aller à l'adresse [https://calendar.google.com/ca
 - Choisir "Ajouter un cal. avec abonnement
 - Coller l'adresse copiée depuis votre espace hyperplanning (paragraphe 5.2.1.) dans la seule ligne disponible
 - Terminer  
-![calendrierios](images\calendrierios.PNG)  
+![calendrierios](images/calendrierios.PNG)  
 
 ## Consultation de votre dossier personnel
 Vous pouvez accéder à une partie de votre dossier personnel, pour consultation. Cet accès comprend vos coordonnées, des données personnelles et vos résultats pour l’année en cours.  
 L’accès se fait en cliquant sur "Consultation des notes" dans le menu outils.  
-![dossierperso1](images\dossierperso1.PNG)  
-![dossierperso2](images\dossierperso2.PNG)  
+![dossierperso1](images/dossierperso1.PNG)  
+![dossierperso2](images/dossierperso2.PNG)  
 
 ## Réservation de salles de projet
 Six salles de travail sont à votre disposition du lundi au vendredi de 8h à 19h pour travailler en groupe. Elles sont réservables sur [https://portail.enit.fr/grrbox](https://portail.enit.fr/grrbox/) pour 30 minutes à 3 heures.
@@ -146,11 +146,11 @@ Six salles de travail sont à votre disposition du lundi au vendredi de 8h à 19
 - Cliquez sur le plus vert pour créer votre réservation dans la colonne de la salle souhaitée, à l’heure du début de la réservation.
   - Remplissez les informations demandées et enregistrez.
   - Venez travailler !  
-![reservation](images\reservation.PNG)  
+![reservation](images/reservation.PNG)  
 
 ## Plateforme d'enseignement à distance : Moodle
 L’ENIT dispose d’une plateforme d’enseignement à distance sur moodle : moodle.enit.fr Vous devez vous connecter avec vos identifiants LDAP en choisissant « Utilisateurs de l’ENIT ». Vous avez ensuite accès à tous les enseignements de l’école. La plupart des enseignements sont soumis à une inscription par mot de passe. Ce mot de passe vous est fourni par l’enseignant par mail ou de vive voix.  
-![moodle](images\moodle.PNG)  
+![moodle](images/moodle.PNG)  
 Adoptez un comportement responsable dans moodle :
 - Téléchargez les documents du cours dans votre espace pour travailler hors ligne,
 - Inscrivez-vous au cours rapidement après avoir eu le mot de passe,
@@ -186,7 +186,7 @@ Pour utiliser les machines virtuelles des salles info et de la bibliothèque sur
 - Saisir l’adresse du serveur : broker.ad.enit.fr
 - Cliquer sur "Se connecter"
 - S’authentifier (LDAP)  
-![VMWare](images\VMWare.PNG)  
+![VMWare](images/VMWare.PNG)  
 Vous êtes maintenant face au même ordinateur qu'en salle info.
 
 ### Dossiers personnels
@@ -199,7 +199,7 @@ Il est possible d’accéder aux répertoires (Mes Documents et Bureau) de ces m
   - Lecteur : Z 
   - Dossier :\\nas4.enit.fr\users\students\pnom<
 - Cliquer sur Terminer  
-![dossierwindows](images\dossierwindows.PNG)  
+![dossierwindows](images/dossierwindows.PNG)  
 
 #### MacOS
 - Ouvrir Finder
@@ -207,7 +207,7 @@ Il est possible d’accéder aux répertoires (Mes Documents et Bureau) de ces m
 - Dans la barre d'adresse, saisir : smb:\\nas4.enit.fr\user\students\pnom
 - Cliquer sur + pour mémoriser le serveur
 - Connexion  
-![dossiermac](images\dossiermac.PNG)  
+![dossiermac](images/dossiermac.PNG)  
 
 ### Le nuage de l'ENIT
 A l’adresse nextcloud.enit.fr, vous aurez accès, après authentification par votre LDAP pnom et le mot de passe associé, à un espace de stockage et de partage de fichiers locaux et en ligne (un cloud), limité à 10Go.  
@@ -219,10 +219,10 @@ Les fichiers stockés dans votre espace sur ce serveur peuvent être :
 #### Synchronisation Nextcloud/répertoire local
 Cette synchronisation entre votre espace Nextcloud et un répertoire local sur votre ordinateur se fait grâce à une application à installer sur votre ordinateur.
 - Sur la page d’accueil de nextcloud.enit.fr, aller sur votre compte et sélectionner "Paramètres"  
-![nextcloud](images\nextcloud.PNG)  
+![nextcloud](images/nextcloud.PNG)  
 - Parmi les différentes configurations possibles, aller sur Mobile & bureau.
 - Le bouton Desktop app vous amènera sur le site de téléchargement de l'application.  
-![nextcloud2](images\nextcloud2.PNG)  
+![nextcloud2](images/nextcloud2.PNG)  
 Lors de l'installation, deux choses à configurer :
 - Le serveur à synchroniser est nextcloud.enit.fr, accès par votre compte LDAP (pnom et mot de passe associé),
 - Le répertoire local à synchroniser, que vous mettez où vous voulez sur votre ordinateur individuel.
@@ -236,7 +236,7 @@ Pour partager un répertoire (ou un fichier) avec un ami depuis votre répertoir
 - Dans la fenêtre de partage, taper le prénom et le nom de l’ami : Nextcloud cherche dans ses utilisateurs ceux correspondants
 - Une fois l’ami sélectionné, il apparaît dans la liste en dessous, où vous pouvez modifier les options de partage ou supprimer le partage.
 Pour partager un répertoire (ou un fichier) depuis l'interface web de Nextcloud, il faut cliquer sur le bouton à droite du nom de répertoire ou du fichier.  
-![partagenextcloud](images\partagenextcloud.PNG)  
+![partagenextcloud](images/partagenextcloud.PNG)  
 Il n’est pas possible de partager un répertoire ou un fichier de cette manière avec des gens extérieurs à l’ENIT. Vous pouvez simplement envoyer un lien qui permettra de télécharger les documents.
 
 #### Modification en ligne
