@@ -61,7 +61,7 @@ La Bibliothèque vous accueille dans le bâtiment E du lundi au jeudi de 8h30 à
 - 6000 étudiants
 - 28 établissements
 
-## 1.4. Accès
+## Accès
 
 #### Plan d'accès
 2 Entrées possibles Avenue d'Azereix : Place de l'Ingénieur ou par le pôle Universitaire.
