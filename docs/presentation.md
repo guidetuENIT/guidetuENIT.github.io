@@ -22,15 +22,7 @@ L’ENIT est une école d’ingénieurs publique généraliste de haut niveau, d
 
 Suivez-nous sur les réseaux sociaux !
 
-[<img src="images\facebook.png" width=100 height=100 class="img-fluid"/>](https://www.facebook.com/ENIT-81436570531/)
-
-[<img src="images\twitter.png" width=100 height=100 class="img-fluid"/>](https://twitter.com/ENITarbesref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-
-[<img src="images\linkedin.png" width=100 height=100 class="img-fluid"/>](https://fr.linkedin.com/school/eni-tarbes/)
-
-[<img src="images\youtube.png" width=100 height=100 class="img-fluid"/>](https://www.youtube.com/channel/UCH3v-VpfSH-jmDX9W143uEQ)
-
-[<img src="images\instagram.png" width=100 height=100 class="img-fluid"/>](https://www.instagram.com/eni.tarbes/)
+[<img src="images\facebook.png" width=100 height=100 class="img-fluid"/>](https://www.facebook.com/ENIT-81436570531/) [<img src="images\twitter.png" width=100 height=100 class="img-fluid"/>](https://twitter.com/ENITarbesref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [<img src="images\linkedin.png" width=100 height=100 class="img-fluid"/>](https://fr.linkedin.com/school/eni-tarbes/) [<img src="images\youtube.png" width=100 height=100 class="img-fluid"/>](https://www.youtube.com/channel/UCH3v-VpfSH-jmDX9W143uEQ) [<img src="images\instagram.png" width=100 height=100 class="img-fluid"/>](https://www.instagram.com/eni.tarbes/)
 
 # Les Directions
 Voici les principales directions ou services avec lesquels vous serez en contact :
