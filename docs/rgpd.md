@@ -29,9 +29,8 @@ Exemples d’atteinte à la vie privée : divulgation, vol ou détournement d’
 ##### RGPD : Se former / S'informer / Valoriser ses connaissances.  
 
 #### S'initier au RGPD
-[<img src="images\cnil.PNG" class="img-fluid"/>](https://www.cnil.fr/)  
-MOOC CNIL : délivre une attestation de suivi, valorisable dans un CV  
-[<img src="images\mooc.PNG" class="img-fluid"/>](https://atelier-rgpd.cnil.fr)  
+[<img src="images\cnil.PNG" class="img-fluid" width ="100" height="100"/>](https://www.cnil.fr/)
+MOOC CNIL : délivre une attestation de suivi, valorisable dans un CV [<img src="images\mooc.PNG" class="img-fluid" width ="100" height="100"/>](https://atelier-rgpd.cnil.fr)  
 Prendre connaissance des mentions légales, politiques de confidentialité, conditions générales d'utilisation des applications et des réseaux sociaux.
 
 ##### RGPD : Exercer vos droits
