@@ -24,7 +24,7 @@ Suivez-nous sur les réseaux sociaux !
 
 [<img src="images\facebook.png" width=100 height=100 class="img-fluid"/>](https://www.facebook.com/ENIT-81436570531/)
 
-[<img src="images\twitter.png" width=100 height=100 class="img-fluid"/>](https://twitter.com/ENITarbes ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+[<img src="images\twitter.png" width=100 height=100 class="img-fluid"/>](https://twitter.com/ENITarbesref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 [<img src="images\linkedin.png" width=100 height=100 class="img-fluid"/>](https://fr.linkedin.com/school/eni-tarbes/)
 
@@ -80,12 +80,12 @@ La Bibliothèque vous accueille dans le bâtiment E du lundi au jeudi de 8h30 à
 	- Aéroport de Tarbes-Lourdes-Pyrénées : situé à 8km du campus. Accès par taxi / location de voitures.
 	- Aéroport de Pau-Pyrénées : situé à 45km du campus. Navettes routières pour Tarbes / liaison SNCF / location de voitures.
 - En train : La gare se trouve à 3.4km = 10 min en voiture ou 35 min à pied. Il est aussi possible de prendre le bus depuis la gare (lignes 1, 2, 4, 5 et 14).
-- Transports en commun</u> : 
-	- Réseau de transports de Tarbes [https://www.alezan-bus.com](Alezan). Accès au domaine universitaire via les lignes : 
+- Transports en commun : 
+	- Réseau de transports de Tarbes [Alezan](https://www.alezan-bus.com). Accès au domaine universitaire via les lignes : 
 	- Route de Bours vers zone Bastillac et échangeur Ouest / Arrêt ENIT
 	- Centre Universitaire vers LP Sixte Vignon / Arrêt Centre Universitaire
 	- Centre Universitaire via Laubadère / Arrêt Centre Universitaire
-	- Réseau de transports [https://www.hautespyrenees.fr/transports-routes/transports/transports-scolaires-et-interurbains](Hautes-Pyrénées Maligne).
+	- Réseau de transports [Hautes-Pyrénées Maligne](https://www.hautespyrenees.fr/transports-routes/transports/transports-scolaires-et-interurbains).
 
 ## Plan ENIT
 
