@@ -3,9 +3,6 @@ title: Accueil
 layout: default
 ---
 
-## Bienvenue sur le guide de l'étudiant ENIT !
+# Bienvenue sur le guide de l'étudiant ENIT !
 
-premier paragraphe
-
-###titre 3
-[http://www.enit.fr](enit)
+Vous trouverez ici des informations sur la vie à l'ENIT. 
