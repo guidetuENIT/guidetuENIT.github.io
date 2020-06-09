@@ -3,6 +3,7 @@ title: RGPD : Recommandations
 layout: default
 nav_order: 6
 ---
+
 # RGPD : Recommandations
 
 ## RGPD : Règlement Général sur la Protection des Données
