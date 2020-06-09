@@ -3,210 +3,94 @@ title: Présentation de l'ENIT
 layout: default
 nav_order: 1
 ---
+# Présentation de l'ENIT
+L’ENIT est une école d’ingénieurs publique généraliste de haut niveau, dont le diplôme est habilité par la CTI (Commission des Titres d’Ingénieur). Elle est tournée vers l’international et dotée d’une recherche innovante, elle forme des ingénieurs généralistes en génie mécanique et génie industriel.
 
-<!DOCTYPE html>
-<html lang="en">
+## L'ENIT en quelques chiffres  
+- Plus de 55 ans d'existence (création en 1963)
+- Un réseau de 7000 ingénieurs
+- 1200 étudiants inscrits
+- 200 à 250 nouveaux diplômés par an
+- 600 stages par an en entreprise
+- 160 enseignants
+- + de 3000 entreprises partenaires
+- Un laboratoire de recherche de plus de 130 personnes
+- 95% des diplômés trouvent un emploi en moins de 6 mois
+- Des partenariats avec 161 universités dans 37 pays
+- Membre du Centre Universitaire Tarbes Pyrénées (CUTP)
+- Rattachée depuis 2002 à Toulouse INP (Institut National Polytechnique)  
 
-<head>
+Suivez-nous sur les réseaux sociaux !
 
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
+[https://www.facebook.com/ENIT-81436570531/](<img src="images\facebook.png" width=100 height=100 class="img-fluid"/>)
 
-  <title>Guide de l'étudiant ENIT</title>
+[https://twitter.com/ENITarbes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](<img src="images\twitter.png" width=100 height=100 class="img-fluid"/>)
 
-  <!-- Bootstrap core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+[https://fr.linkedin.com/school/eni-tarbes/](<img src="images\linkedin.png" width=100 height=100 class="img-fluid"/>)
 
-  <!-- Custom styles for this template -->
-  <link href="css/simple-sidebar.css" rel="stylesheet">
-  
-  <!-- Leaflet -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="crossorigin=""/> 
-  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="crossorigin=""></script>
-  
-  <style>
+[https://www.youtube.com/channel/UCH3v-VpfSH-jmDX9W143uEQ](<img src="images\youtube.png" width=100 height=100 class="img-fluid"/>)
 
-    html, body {
-      margin: 0;
-      padding: 0;
-      font-family: Calibri, Verdana, Lucida, sans-serif;
-      font-size: 18px;
-    }
-	</style>
-	 
+[https://www.instagram.com/eni.tarbes/](<img src="images\instagram.png" width=100 height=100 class="img-fluid"/>)
 
-</head>
+# Les Directions
+Voici les principales directions ou services avec lesquels vous serez en contact :
 
-<body>
+#### DIRECTION DE L'ECOLE
+Sa mission est de piloter et de définir la stratégie de l’école. Vous serez amené à rencontrer le directeur concernant : des projets, des événements, des autorisations de soirée étudiante, etc…. Elle organise les élections des représentants des élèves ingénieurs aux conseils d’administration, pédagogique, scientifique et technologique, etc.
 
-  <div class="d-flex" id="wrapper">
+#### DIRECTION DE LA FORMATION ET DE LA VIE ETUDIANTE
+Elle a pour mission le pilotage de la formation et de la vie étudiante, mais aussi l’organisation de la pédagogie.  
 
-    <!-- Sidebar -->
-    <div class="bg-light border-right" id="sidebar-wrapper">
-      <div class="sidebar-heading"><center>GUIDE DE L'ETUDIANT ENIT<center><img src="images/enit.png" width=180 height=180 class="img-fluid"</center></center></div>
-      <div class="list-group list-group-flush">
-        <a href="presentation.html" class="list-group-item list-group-item-action list-group-item-primary">1. Présentation de l'ENIT</a>
-        <a href="formation.html" class="list-group-item list-group-item-action bg-light">2. Formation</a>
-        <a href="vieetu.html" class="list-group-item list-group-item-action bg-light">3. Vie étudiante</a>
-        <a href="mobilite.html" class="list-group-item list-group-item-action bg-light">4. Mobilité</a>
-        <a href="servicesnum.html" class="list-group-item list-group-item-action bg-light">5. Services numériques</a>
-        <a href="rgpd.html" class="list-group-item list-group-item-action bg-light">6. RGPD : Recommandations</a>
-		<a href="contacts.html" class="list-group-item list-group-item-action bg-light">7. Contacts</a>
-      </div>
-    </div>
-    <!-- /#sidebar-wrapper -->
+Le service Scolarité répondra à toutes les questions concernant : l’inscription et le suivi administratif des élèves, la délivrance du diplôme, les demandes d’absence, les besoins d’aménagement de la scolarité, etc.  
 
-    <!-- Page Content -->
-    <div id="page-content-wrapper">
+Le service Admissions aura besoin de vous pour participer à des actions de promotion de l’école : interventions devant des classes de lycéens, forums, salons étudiants. Ces actions permettent d’acquérir des points Valorisation Des Projets Étudiants (VPE).  
 
-      <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
-        <button class="btn btn-primary" id="menu-toggle">Menu</button>
+Le service Formation Continue vous orientera pour effectuer la dernière année en contrat de professionnalisation. Il s’occupe également des VAE (Valorisation des Acquis de l’Expérience) et de la formation continue.
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
+#### DIRECTION DE LA RECHERCHE
+Sa mission est d'orienter la politique de recherche et de valorisation. Elle coordonne les activités du Laboratoire Génie de Production (LGP) et des plateformes technologiques, participe au pilotage des Centres de Ressources et de Compétences (CRC), et a également pour mission de développer les partenariats académiques et industriels. Le LGP vous accueille en stage au sein du laboratoire (S3, S6, PFE, Master Recherche).
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
-            <li class="nav-item active">
-              <a class="nav-link" href="index.html">Accueil<span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Langue
-              </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="presentation.html">Français</a>
-                <a class="dropdown-item" href="presentationEN.html">Anglais</a>
-              </div>
-            </li>
-          </ul>
-        </div>
-      </nav>
+#### DIRECTION DES AFFAIRES INDUSTRIELLES
+Elle a pour mission la gestion des partenariats avec les entreprises dans les domaines de l’insertion professionnelle, du transfert de technologie, et de la recherche. Pour la partie insertion professionnelle qui vous concerne au 1er chef, elle assure la gestion des stages et des PFE, l’accompagnement vers l’emploi, et organise des évènements en partenariat avec le milieu socio-professionnel (forum des entreprises, job dating, etc…).
 
-      <div class="container-fluid">
-        <h1 class="mt-4">1. Présentation de l'ENIT</h1>
-        <p>L’ENIT est une école d’ingénieurs publique généraliste de haut niveau, dont le diplôme est habilité par la CTI (Commission des Titres d’Ingénieur).</p>
-		<p>Elle est tournée vers l’international et dotée d’une recherche innovante, elle forme des ingénieurs généralistes en génie mécanique et génie industriel.</p>
-        <h2>1.1 L'ENIT en quelques chiffres</h2>
-		<ul>
-		<li>Plus de 55 ans d'existence (création en 1963)</li>
-		<li>Un réseau de 7000 ingénieurs</li>
-		<li>1200 étudiants inscrits</li>
-		<li>200 à 250 nouveaux diplômés par an</li>
-		<li>600 stages par an en entreprise</li>
-		<li>160 enseignants</li>
-		<li>+ de 3000 entreprises partenaires</li>
-		<li>Un laboratoire de recherche de plus de 130 personnes</li>
-		<li>95% des diplômés trouvent un emploi en moins de 6 mois</li>
-		<li>Des partenariats avec 161 universités dans 37 pays</li>
-		<li>Membre du Centre Universitaire Tarbes Pyrénées (CUTP)</li>
-		<li>Rattachée depuis 2002 à Toulouse INP (Institut National Polytechnique)</li>
-		</ul>
-		<strong>Suivez-nous sur les réseaux sociaux !</strong>
-		<br>
-		<br>
-		<a href="https://www.facebook.com/ENIT-81436570531/"><img src="images\facebook.png" width=100 height=100 class="img-fluid"/></a>
+#### DIRECTION DES RELATIONS INTERNATIONALES
+Une des missions consiste à accueillir et informer les étudiants qui ont un projet de séjour à l’étranger. Elle vous informera également des dispositifs d’accompagnement financier.
+
+#### SERVICES GENERAUX
+L’accueil se situe dans le bâtiment A, et est ouvert du lundi au vendredi de 7h30 à 12h30 et de 13h30 à 19h.  
+Le Centre des Services Numériques répondra aux requêtes d’organisation des soutenances (VISIO), de carte étudiante, de problème de connexion LDAP, de configuration de matériel, etc.  
+La Bibliothèque vous accueille dans le bâtiment E du lundi au jeudi de 8h30 à 19h et le vendredi de 8h30 à 18h pour emprunter des livres (technique ou divertissement), ou du matériel (kit tableau, zapette, casque audio, jeux, etc.). Il est également possible de venir pour travailler sur les postes informatiques mis à disposition, mais aussi venir se connecter au réseau Wifi avec votre propre matériel. La bibliothèque dispose aussi d’un coin repos pour se détendre.
+
+### Organigramme
+![organigramme](images/organigramme.png)
 		
-		<a href="https://twitter.com/ENITarbes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><img src="images\twitter.png" width=100 height=100 class="img-fluid"/></a>
-		
-		<a href="https://fr.linkedin.com/school/eni-tarbes/"><img src="images\linkedin.png" width=100 height=100 class="img-fluid"/></a>
-		
-		<a href="https://www.youtube.com/channel/UCH3v-VpfSH-jmDX9W143uEQ"><img src="images\youtube.png" width=100 height=100 class="img-fluid"/></a>
-		
-		<a href="https://www.instagram.com/eni.tarbes/"><img src="images\instagram.png" width=100 height=100 class="img-fluid"/></a>
-		<br>
-		<br>
-		<h2>1.2. Les Directions</h2>
-		<br>
-		<p>Voici les principales directions ou services avec lesquels vous serez en contact :</p>
-		
-		<h5>DIRECTION DE L'ECOLE</h5>
-		<p>Sa mission est de piloter et de définir la stratégie de l’école. Vous serez amené à rencontrer le directeur
-		concernant : des projets, des événements, des autorisations de soirée étudiante, etc…. Elle organise les
-		élections des représentants des élèves ingénieurs aux conseils d’administration, pédagogique, scientifique
-		et technologique, etc.</p>
-		<h5>DIRECTION DE LA FORMATION ET DE LA VIE ETUDIANTE</h5>
-		<p>Elle a pour mission le pilotage de la formation et de la vie étudiante, mais aussi l’organisation de la
-		pédagogie.
-		<br>
-		<strong>Le service Scolarité</strong> répondra à toutes les questions concernant : l’inscription et le suivi administratif des
-		élèves, la délivrance du diplôme, les demandes d’absence, les besoins d’aménagement de la scolarité, etc…
-		<br><i>Cf partie 2.3</i>
-		<br>
-		<strong>Le service Admissions</strong> aura besoin de vous pour participer à des actions de promotion de l’école :
-		interventions devant des classes de lycéens, forums, salons étudiants. Ces actions permettent d’acquérir des
-		points Valorisation Des Projets Étudiants (VPE). 
-		<br><i>Cf livret VPE</i>
-		<br>
-		<strong>Le service Formation Continue</strong> vous orientera pour effectuer la dernière année en contrat de
-		professionnalisation. Il s’occupe également des VAE (Valorisation des Acquis de l’Expérience) et de la
-		formation continue.</p>
-		<h5>DIRECTION DE LA RECHERCHE</h5>
-		<p>Sa mission est d'orienter la politique de recherche et de valorisation. Elle coordonne les activités du
-		Laboratoire Génie de Production (LGP) et des plateformes technologiques, participe au pilotage des Centres
-		de Ressources et de Compétences (CRC), et a également pour mission de développer les partenariats
-		académiques et industriels. Le LGP vous accueille en stage au sein du laboratoire (S3, S6, PFE, Master
-		Recherche).</p>
-		<h5>DIRECTION DES AFFAIRES INDUSTRIELLES</h5>
-		<p>Elle a pour mission la gestion des partenariats avec les entreprises dans les domaines de l’insertion
-		professionnelle, du transfert de technologie, et de la recherche. Pour la partie insertion professionnelle qui
-		vous concerne au 1er chef, elle assure la gestion des stages et des PFE, l’accompagnement vers l’emploi, et
-		organise des évènements en partenariat avec le milieu socio-professionnel (forum des entreprises, job dating, etc…).
-		<br><i>Cf partie 2.4</i>
-		</p>
-		<h5>DIRECTION DES RELATIONS INTERNATIONALES</h5>
-		<p>Une des missions consiste à accueillir et informer les étudiants qui ont un projet de séjour à l’étranger. Elle
-		vous informera également des dispositifs d’accompagnement financier.
-		<br><i>Cf partie 4</i>
-		</p>
-		<h5>SERVICES GENERAUX</h5>
-		<p><strong>L’accueil</strong> se situe dans le bâtiment A, et est ouvert du lundi au vendredi de 7h30 à 12h30 et de 13h30 à 19h.
-		<br>
-		<strong>Le Centre des Services Numériques</strong> répondra aux requêtes d’organisation des soutenances (VISIO), de carte
-		étudiante, de problème de connexion LDAP, de configuration de matériel, etc.
-		<br><i>Cf partie 5</i>
-		<br>
-		<strong>La Bibliothèque</strong> vous accueille dans le bâtiment E du lundi au jeudi de 8h30 à 19h et le vendredi de 8h30 à
-		18h pour emprunter des livres (technique ou divertissement), ou du matériel (kit tableau, zapette, casque
-		audio, jeux, etc.). Il est également possible de venir pour travailler sur les postes informatiques mis à
-		disposition, mais aussi venir se connecter au réseau Wifi avec votre propre matériel. La bibliothèque dispose
-		aussi d’un coin repos pour se détendre.
-		<br><i>Cf partie 3.4</p></i>
-		<h4>Organigramme</h4>
-		<center><img src="images\organigramme.png" class="img-fluid" alt="" /></center>
-		<h2>1.3. Le campus tarbais en quelques chiffres</h2>
-		<ul>
-		<li>97 formations post-Bac allant jusqu'au Doctorat</li>
-		<li>6000 étudiants</li>
-		<li>28 établissements</li>
-		</ul>
-		<h2>1.4. Accès</h2>
-		<p><strong>Plan d'accès</strong>
-		<br>2 Entrées possibles Avenue d'Azereix : Place de l'Ingénieur ou par le pôle Universitaire.
-		<ul>
-		<li>En voiture = 9 min du centre ville.</li>
-		<li>A vélo : Situé à 2.3km de la place Verdun (centre-ville) = 13 min.</li>
-		<li>A pied : Situé à 2.3km de la place Verdun (centre-ville) = 25 min.</li>
-		<li>En avion : 
-		<br><strong>Aéroport de Tarbes-Lourdes-Pyrénées :</strong> situé à 8km du campus. Accès par taxi / location de voitures.
-		<br><strong>Aéroport de Pau-Pyrénées :</strong> situé à 45km du campus. Navettes routières pour Tarbes / liaison SNCF / location de voitures.</li>
-		<li><u>En train</u> : La gare se trouve à 3.4km = 10 min en voiture ou 35 min à pied. Il est aussi possible de prendre le bus depuis la gare (lignes 1, 2, 4, 5 et 14).</li>
-		<li><u>Transports en commun</u> : 
-		<br>Réseau de transports de Tarbes <a href="https://www.alezan-bus.com/">Alezan</a>. Accès au domaine universitaire via les lignes : 
-		<br>1 : <strong>Route de Bours vers zone Bastillac et échangeur Ouest</strong> / Arrêt ENIT
-		<br>3 : <strong>Centre Universitaire vers LP Sixte Vignon</strong> / Arrêt Centre Universitaire
-		<br>5 : <strong>Centre Universitaire via Laubadère</strong> / Arrêt Centre Universitaire
-		<br>Réseau de transports <a href="https://www.hautespyrenees.fr/transports-routes/transports/transports-scolaires-et-interurbains/">Hautes-Pyrénées Maligne</a>.</p>
-		</ul>
-		<h2>1.5. Plan ENIT</h2>
-		<br>
-		<br>
-		<center><div id="mapid" style="width: 800px; height: 600px; position: relative; outline: none;" class="leaflet-container leaflet-fade-anim leaflet-grab leaflet-touch-drag" tabindex="0"/>…</div></center>
-		<script>var mymap = L.map('mapid').setView([43.224766, 0.051289], 20);
+## Le campus tarbais en quelques chiffres
+- 97 formations post-Bac allant jusqu'au Doctorat
+- 6000 étudiants
+- 28 établissements
 
+## 1.4. Accès
+
+#### Plan d'accès
+2 Entrées possibles Avenue d'Azereix : Place de l'Ingénieur ou par le pôle Universitaire.
+- En voiture = 9 min du centre ville.
+- A vélo : Situé à 2.3km de la place Verdun (centre-ville) = 13 min.
+- A pied : Situé à 2.3km de la place Verdun (centre-ville) = 25 min.
+- En avion : 
+	- Aéroport de Tarbes-Lourdes-Pyrénées : situé à 8km du campus. Accès par taxi / location de voitures.
+	- Aéroport de Pau-Pyrénées : situé à 45km du campus. Navettes routières pour Tarbes / liaison SNCF / location de voitures.
+- En train : La gare se trouve à 3.4km = 10 min en voiture ou 35 min à pied. Il est aussi possible de prendre le bus depuis la gare (lignes 1, 2, 4, 5 et 14).
+- Transports en commun</u> : 
+	- Réseau de transports de Tarbes [https://www.alezan-bus.com](Alezan). Accès au domaine universitaire via les lignes : 
+	- Route de Bours vers zone Bastillac et échangeur Ouest / Arrêt ENIT
+	- Centre Universitaire vers LP Sixte Vignon / Arrêt Centre Universitaire
+	- Centre Universitaire via Laubadère / Arrêt Centre Universitaire
+	- Réseau de transports [https://www.hautespyrenees.fr/transports-routes/transports/transports-scolaires-et-interurbains](Hautes-Pyrénées Maligne).
+
+## Plan ENIT
+
+<div id="mapid" style="width: 800px; height: 600px; position: relative; outline: none;" class="leaflet-container leaflet-fade-anim leaflet-grab leaflet-touch-drag" tabindex="0"/>…</div>
+<script>var mymap = L.map('mapid').setView([43.224766, 0.051289], 20);
 		L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
 			maxZoom: 18,
 			attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
@@ -216,7 +100,6 @@ nav_order: 1
 			tileSize: 512,
 			zoomOffset: -1
 		}).addTo(mymap);
-
 		L.marker([43.224501, 0.051289]).addTo(mymap)
 			.bindPopup("<b>Bâtiment D : Grand Amphithéâtre et Amphithéâtres C et D</b>").openPopup();
 		L.marker([43.224931, 0.051187]).addTo(mymap)
@@ -243,30 +126,7 @@ nav_order: 1
 			.bindPopup("<b>CIRTT 3</b>").openPopup();
 		L.marker([43.22751, 0.050898]).addTo(mymap)
 			.bindPopup("<b>Restaurant Universitaire</b>").openPopup();
-		var popup = L.popup();
-		
+		var popup = L.popup();		
 		mymap.on('click', onMapClick);
 		</script>
-		</p>
 			</div>
-    </div>
-    <!-- /#page-content-wrapper -->
-
-  </div>
-  <!-- /#wrapper -->
-
-  <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-  <!-- Menu Toggle Script -->
-  <script>
-    $("#menu-toggle").click(function(e) {
-      e.preventDefault();
-      $("#wrapper").toggleClass("toggled");
-    });
-  </script>
-
-</body>
-
-</html>
