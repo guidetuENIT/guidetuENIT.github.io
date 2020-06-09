@@ -7,7 +7,7 @@ nav_order: 6
 
 ## RGPD : Règlement Général sur la Protection des Données
 
-![supDPO](images/supDPO.png)  
+![supDPO](images/supDPO.PNG)  
 
 #### De quoi s’agit-il ?  
 
@@ -28,10 +28,10 @@ Exemples d’atteinte à la vie privée : divulgation, vol ou détournement d’
 
 ##### RGPD : Se former / S'informer / Valoriser ses connaissances.  
 
-S'initier au RGPD
-[<img src="images\cnil.png" class="img-fluid"/>](https://www.cnil.fr/)  
+#### S'initier au RGPD
+[<img src="images\cnil.PNG" class="img-fluid"/>](https://www.cnil.fr/)  
 MOOC CNIL : délivre une attestation de suivi, valorisable dans un CV  
-[<img src="images\mooc.png" class="img-fluid"/>](https://atelier-rgpd.cnil.fr)  
+[<img src="images\mooc.PNG" class="img-fluid"/>](https://atelier-rgpd.cnil.fr)  
 Prendre connaissance des mentions légales, politiques de confidentialité, conditions générales d'utilisation des applications et des réseaux sociaux.
 
 ##### RGPD : Exercer vos droits
@@ -43,7 +43,7 @@ En tant qu'étudiant, vous avez des droits sur l'utilisation de vos données dur
 ##### RGPD : Respecter vos obligations !
 En tant qu’utilisateur de données, suivez la méthodologie de recherche pour respecter la réglementation adéquate. Une réflexion sur la protection des données que vous souhaitez utiliser, est à engager avant de mettre en oeuvre votre recherche en collaboration avec votre responsable d’études et le DPO de votre établissement.  
 
-5 règles de protection des données à respecter :
+#### 5 règles de protection des données à respecter :
 - Utiliser des données personnelles uniquement si votre recherche le justifie,
 - Utiliser les seules informations nécessaires à réaliser l'objectif de votre recherche,
 - Informer les personnes qui vous confient leurs données sur l'utilisation que vous en faites,
@@ -52,7 +52,7 @@ En tant qu’utilisateur de données, suivez la méthodologie de recherche pour 
 
 ### Recommandation 2:
 
-Protégez-vous !  
+#### Protégez-vous !  
 
 #### Respecter les précautions élémentaires de sécurité :
 - Protéger l’accès à vos comptes (messagerie, applications…) par des mots de passe complexes, uniques et secrets.
@@ -71,7 +71,7 @@ Protégez-vous !
     
 ### Recommandation 3:
 
-Adoptez les bonnes pratiques numériques !  
+#### Adoptez les bonnes pratiques numériques !  
 
 - Préserver votre identité numérique et celle des autres (le harcèlement numérique est un délit),
 - Respecter les données d’autrui en toutes circonstances (réseaux sociaux, formulaires de collecte...) !
