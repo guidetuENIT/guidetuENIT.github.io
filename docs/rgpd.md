@@ -8,7 +8,7 @@ nav_order: 6
 
 ## RGPD : Règlement Général sur la Protection des Données
 
-![supDPO](images/supDPO.png)  
+![supDPO](images/supDPO.PNG)  
 
 #### De quoi s’agit-il ?  
 
