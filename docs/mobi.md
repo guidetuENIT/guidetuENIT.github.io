@@ -20,7 +20,7 @@ Un étudiant ayant un projet particulier peut effectuer un semestre (une année 
 Plus d'informations sur le [guide de projet de mobilité internationale](https://www.enit.fr/_attachments/inscription-et-reinscription-accordeon/Guide%2520mobilit%25C3%25A9%2520internationale-v2019-d%25C3%25A9finitif.pdf?download=true) disponible sur l’extranet.  
 Voici ci-dessous la carte interactive des partenaires à l'étranger:  
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1W5hxim0cP0159C2jeMgJdzbDpRE" width="960" height="720"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1W5hxim0cP0159C2jeMgJdzbDpRE" width="960" height="720" class="img-fluid"></iframe>
 
 ## Mobilité Régionale
 Dans le cadre du projet DEFI DIVERSITES dans lequel l'ENIT est partenaire, l'étudiant peut suivre le S9 en septembre dans certaines formations proposées par les autres Écoles (INSA, ENSIACET, EMAC, etc..). Les conditions :
