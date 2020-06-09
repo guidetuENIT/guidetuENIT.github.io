@@ -7,7 +7,7 @@ nav_order: 7
 # Contacts  
 Vous trouverez ci-dessous les contacts utiles (merci d'utiliser les boîtes mail fonctionnelles plutôt que les nominatives) :  
 
-## Direction de la Formation et de la Vie Etudiante
+## Direction de la Formation et de la Vie Etudiant
 [dfvedir@enit.fr](mailto:dfvedir@enit.fr)  
 [dfve-pilotage@enit.fr](mailto:dfve-pilotage@enit.fr)
 ### Scolarité
