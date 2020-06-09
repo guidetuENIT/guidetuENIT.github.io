@@ -5,7 +5,7 @@ nav_order: 3
 ---
 # Vie étudiante
 
-## Services médico-sociau
+## Services médico-sociaux
 #### Egalité des chances
 NOM : HASSOUNE-RHABBOUR  
 Prénom : Bouchra  
