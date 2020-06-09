@@ -66,6 +66,6 @@ Dates :
 - S10x : de septembre à janvier
 Les dates de stage ne doivent pas empêcher de suivre les enseignements ou d’assister aux examens. Le début et la fin du stage doivent être dans les limites de l’année universitaire en cours.
 
-## 2.3. Bourses
+## Bourses
 Lors de la constitution de votre dossier d’inscription pour l’ENIT, il faut joindre la notification de bourse. Si cette notification n’émane pas du CROUS de Toulouse, vous devez effectuer une demande de transfert auprès de votre ancien CROUS (en envoyant le certificat de scolarité fournit par l’ENIT lors de votre passage sur la chaine d’inscription). A la suite de ce changement, vous devez renvoyer au service Scolarité la notification de bourse mise à jour pour recevoir les versements de bourse. Ces versements sont soumis à des obligations (telle que l'assiduité aux cours et la présence aux examens). Vous trouverez ci-après [une notice d'aide](https://extranet.enit.fr/_attachments/scolarite-accordeon/Comment%2520demander%2520une%2520bourse.pdf?download=true).
 
