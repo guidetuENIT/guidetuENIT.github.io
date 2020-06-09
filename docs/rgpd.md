@@ -1,3 +1,8 @@
+---
+title: Recommandations RGPD
+layout: default
+nav_order: 6
+---
 
 # RGPD : Recommandations
 
