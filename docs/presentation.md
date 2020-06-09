@@ -22,15 +22,15 @@ L’ENIT est une école d’ingénieurs publique généraliste de haut niveau, d
 
 Suivez-nous sur les réseaux sociaux !
 
-[https://www.facebook.com/ENIT-81436570531/](<img src="images\facebook.png" width=100 height=100 class="img-fluid"/>)
+[<img src="images\facebook.png" width=100 height=100 class="img-fluid"/>](https://www.facebook.com/ENIT-81436570531/)
 
-[https://twitter.com/ENITarbes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](<img src="images\twitter.png" width=100 height=100 class="img-fluid"/>)
+[<img src="images\twitter.png" width=100 height=100 class="img-fluid"/>](https://twitter.com/ENITarbes ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-[https://fr.linkedin.com/school/eni-tarbes/](<img src="images\linkedin.png" width=100 height=100 class="img-fluid"/>)
+[<img src="images\linkedin.png" width=100 height=100 class="img-fluid"/>](https://fr.linkedin.com/school/eni-tarbes/)
 
-[https://www.youtube.com/channel/UCH3v-VpfSH-jmDX9W143uEQ](<img src="images\youtube.png" width=100 height=100 class="img-fluid"/>)
+[<img src="images\youtube.png" width=100 height=100 class="img-fluid"/>](https://www.youtube.com/channel/UCH3v-VpfSH-jmDX9W143uEQ)
 
-[https://www.instagram.com/eni.tarbes/](<img src="images\instagram.png" width=100 height=100 class="img-fluid"/>)
+[<img src="images\instagram.png" width=100 height=100 class="img-fluid"/>](https://www.instagram.com/eni.tarbes/)
 
 # Les Directions
 Voici les principales directions ou services avec lesquels vous serez en contact :
@@ -62,7 +62,7 @@ Le Centre des Services Numériques répondra aux requêtes d’organisation des 
 La Bibliothèque vous accueille dans le bâtiment E du lundi au jeudi de 8h30 à 19h et le vendredi de 8h30 à 18h pour emprunter des livres (technique ou divertissement), ou du matériel (kit tableau, zapette, casque audio, jeux, etc.). Il est également possible de venir pour travailler sur les postes informatiques mis à disposition, mais aussi venir se connecter au réseau Wifi avec votre propre matériel. La bibliothèque dispose aussi d’un coin repos pour se détendre.
 
 ### Organigramme
-![organigramme](images/organigramme.png)
+![organigramme](images/organigramme.PNG)
 		
 ## Le campus tarbais en quelques chiffres
 - 97 formations post-Bac allant jusqu'au Doctorat
