@@ -11,12 +11,6 @@ permalink: /docs/services
 L’ENIT propose divers services numériques, accessibles depuis le menu outils dans l’extranet (après vous être authentifié). L’authentification se fait par votre identifiant LDAP bâti de la manière suivante : initiale du prénom suivi du nom sur 8 caractères maximum. Cet identifiant est appelé pnom dans la suite du document. Cet identifiant et le mot de passe associé sont indiqués sur le certificat de scolarité remis lors de votre inscription.  
 <center><img src="images/servicesnum.PNG" width="300" height="300"/></center>
 
-## Consultation de votre dossier personnel
-Vous pouvez accéder à une partie de votre dossier personnel, pour consultation. Cet accès comprend vos coordonnées, des données personnelles et vos résultats pour l’année en cours.  
-L’accès se fait en cliquant sur "Consultation des notes" dans le menu outils.  
-![dossierperso1](images/dossierperso1.PNG)  
-![dossierperso2](images/dossierperso2.PNG)  
-
 ## Réservation de salles de projet
 Six salles de travail sont à votre disposition du lundi au vendredi de 8h à 19h pour travailler en groupe. Elles sont réservables sur [https://portail.enit.fr/grrbox](https://portail.enit.fr/grrbox/) pour 30 minutes à 3 heures.
 - La loupe vous donne accès à la description de la salle.
