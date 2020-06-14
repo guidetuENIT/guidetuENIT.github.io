@@ -11,14 +11,6 @@ permalink: /docs/services
 L’ENIT propose divers services numériques, accessibles depuis le menu outils dans l’extranet (après vous être authentifié). L’authentification se fait par votre identifiant LDAP bâti de la manière suivante : initiale du prénom suivi du nom sur 8 caractères maximum. Cet identifiant est appelé pnom dans la suite du document. Cet identifiant et le mot de passe associé sont indiqués sur le certificat de scolarité remis lors de votre inscription.  
 <center><img src="images/servicesnum.PNG" width="300" height="300"/></center>
 
-## Plateforme d'enseignement à distance : Moodle
-L’ENIT dispose d’une plateforme d’enseignement à distance sur moodle : moodle.enit.fr Vous devez vous connecter avec vos identifiants LDAP en choisissant « Utilisateurs de l’ENIT ». Vous avez ensuite accès à tous les enseignements de l’école. La plupart des enseignements sont soumis à une inscription par mot de passe. Ce mot de passe vous est fourni par l’enseignant par mail ou de vive voix.  
-![moodle](images/moodle.PNG)  
-Adoptez un comportement responsable dans moodle :
-- Téléchargez les documents du cours dans votre espace pour travailler hors ligne,
-- Inscrivez-vous au cours rapidement après avoir eu le mot de passe,
-- Ne jetez pas le mail vous indiquant le fonctionnement du cours dans moodle.
-
 ## Travailler sur ordinateur à l'ENIT
 L’ENIT dispose de 5 salles « Informatique » équipées de postes permettant de travailler sur des machines virtuelles, disposant des logiciels nécessaires aux enseignements ayant lieu dans ces salles. Les documents et fichiers que vous manipulez et créez sur ces machines virtuelles sont stockés dans votre dossier personnel. Les salles info1 à info4 sont accessibles (accès par carte) lorsqu’il n’y a pas d’enseignement qui s’y déroule (voir EDT des salles sur planning.enit.fr et des salles info sur la porte d’info1).  
 Ces mêmes machines virtuelles sont accessibles depuis les postes de la bibliothèque et depuis votre propre ordinateur si vous êtes sur le réseau de l’ENIT (voir ci-dessous).  
