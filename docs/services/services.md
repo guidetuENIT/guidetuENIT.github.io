@@ -11,14 +11,6 @@ permalink: /docs/services
 L’ENIT propose divers services numériques, accessibles depuis le menu outils dans l’extranet (après vous être authentifié). L’authentification se fait par votre identifiant LDAP bâti de la manière suivante : initiale du prénom suivi du nom sur 8 caractères maximum. Cet identifiant est appelé pnom dans la suite du document. Cet identifiant et le mot de passe associé sont indiqués sur le certificat de scolarité remis lors de votre inscription.  
 <center><img src="images/servicesnum.PNG" width="300" height="300"/></center>
 
-## Réservation de salles de projet
-Six salles de travail sont à votre disposition du lundi au vendredi de 8h à 19h pour travailler en groupe. Elles sont réservables sur [https://portail.enit.fr/grrbox](https://portail.enit.fr/grrbox/) pour 30 minutes à 3 heures.
-- La loupe vous donne accès à la description de la salle.
-- Cliquez sur le plus vert pour créer votre réservation dans la colonne de la salle souhaitée, à l’heure du début de la réservation.
-  - Remplissez les informations demandées et enregistrez.
-  - Venez travailler !  
-![reservation](images/reservation.PNG)  
-
 ## Plateforme d'enseignement à distance : Moodle
 L’ENIT dispose d’une plateforme d’enseignement à distance sur moodle : moodle.enit.fr Vous devez vous connecter avec vos identifiants LDAP en choisissant « Utilisateurs de l’ENIT ». Vous avez ensuite accès à tous les enseignements de l’école. La plupart des enseignements sont soumis à une inscription par mot de passe. Ce mot de passe vous est fourni par l’enseignant par mail ou de vive voix.  
 ![moodle](images/moodle.PNG)  
